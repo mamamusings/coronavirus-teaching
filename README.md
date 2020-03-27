@@ -6,7 +6,7 @@ I've been writing up a lot of brief guides for colleagues since the sudden shift
 
 If you find inaccuracies in any of these materials, please submit a pull request, or open an issue. 
 
-If the line above sounds like gibberish to you, you can also email me at elizabeth.lawley@rit.edu or contact me on Discord at mamamusings#3282. Email responses may be delayed, however, due to the current volume of work-related email I'm getting!
+(Or, if the line above sounds like gibberish to you, you can also email me at elizabeth.lawley@rit.edu or contact me on Discord at mamamusings#3282. Email responses may be delayed, however, due to the current volume of work-related email I'm getting!)
 
 ## Current Documents
 
